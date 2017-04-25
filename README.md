@@ -1,4 +1,7 @@
-# api documentation for  [acorn (v5.0.3)](https://github.com/ternjs/acorn)  [![npm package](https://img.shields.io/npm/v/npmdoc-acorn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-acorn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-acorn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-acorn)
+# npmdoc-acorn
+
+#### basic api documentation for  [acorn (v5.0.3)](https://github.com/ternjs/acorn)  [![npm package](https://img.shields.io/npm/v/npmdoc-acorn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-acorn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-acorn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-acorn)
+
 #### ECMAScript parser
 
 [![NPM](https://nodei.co/npm/acorn.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/acorn)

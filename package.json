@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "acorn",
-    "description": "api documentation for [acorn (v5.0.3)](https://github.com/ternjs/acorn) [![npm package](https://img.shields.io/npm/v/npmdoc-acorn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-acorn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-acorn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-acorn)",
+    "description": "#### basic api documentation for  [acorn (v5.0.3)](https://github.com/ternjs/acorn)  [![npm package](https://img.shields.io/npm/v/npmdoc-acorn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-acorn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-acorn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-acorn)",
     "devDependencies": {
         "acorn": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
